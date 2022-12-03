@@ -1,3 +1,4 @@
+ console.log("Injecting titlebar fix")
  var elem = document.createElement("div");
         elem.innerHTML = `<nav class="titlebar">
           <div class="window-title" id="window-title"></div>
